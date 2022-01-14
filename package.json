@@ -2,7 +2,7 @@
   "name": "ejercicio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cuevacelis.github.io/juedo-de-memoria-makeItReal/",
+  "homepage": "https://cuevacelis.github.io/juego-de-memoria-makeItReal",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
