@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/juedo-de-memoria-makeItReal/static/css/main.38b7509e.css",
+    "main.js": "/juedo-de-memoria-makeItReal/static/js/main.c3adea5c.js",
+    "static/js/787.c243477c.chunk.js": "/juedo-de-memoria-makeItReal/static/js/787.c243477c.chunk.js",
+    "index.html": "/juedo-de-memoria-makeItReal/index.html",
+    "main.38b7509e.css.map": "/juedo-de-memoria-makeItReal/static/css/main.38b7509e.css.map",
+    "main.c3adea5c.js.map": "/juedo-de-memoria-makeItReal/static/js/main.c3adea5c.js.map",
+    "787.c243477c.chunk.js.map": "/juedo-de-memoria-makeItReal/static/js/787.c243477c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38b7509e.css",
+    "static/js/main.c3adea5c.js"
+  ]
+}
