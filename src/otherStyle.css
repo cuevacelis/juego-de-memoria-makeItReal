@@ -1,0 +1,40 @@
+.ejercicio {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  gap: 10px;
+}
+.bg-td {
+  background-color: black;
+  border: 0.5px solid #646464;
+  width: 40px;
+  height: 40px;
+}
+
+.section__sizeGridTable input[type="number"] {
+  width: 40px;
+}
+
+.bg-color-black {
+  background: black;
+}
+
+.bg-color-blue {
+  background: blue;
+}
+
+.bg-color-green {
+  background: green;
+}
+
+.bg-color-active {
+  border: 5px solid #dbdb24;
+}
+
+.section__selectColor tr {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
